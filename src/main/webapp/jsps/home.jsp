@@ -14,7 +14,7 @@
 	We offer The Best Training Globally for DevOps with Linux and Cloud. We are dedicated to equipping IT Engineers for Best Performance. We are the Best</h1>
 <hr>
 <br>
-	<h1><h3> Server Side IP Address </h3><br>
+	<h1><h3> Server Side IP Address of the Company</h3><br>
 
 <% 
 String ip = "";
