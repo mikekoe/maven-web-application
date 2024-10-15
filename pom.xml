@@ -104,14 +104,14 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Tester-app</name>
-	      <url>http://54.164.51.171:8081/repository/tester-app-release/</url>
+	      <name>Biolab</name>
+	      <url>http://16.16.64.28:8081/repository/biolab-dev/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Tester-app</name>
-	      <url>http://54.164.51.171:8081/repository/tester-app-snapshot/</url>
+	      <name>Biolab</name>
+	      <url>http://16.16.64.28:8081/repository/biola-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
